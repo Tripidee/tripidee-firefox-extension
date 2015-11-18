@@ -1,0 +1,15 @@
+{
+  "title": "Tripidee Button",
+  "name": "tripidee-firefox-jetpack-addon",
+  "version": "0.9.3",
+  "description": "This extension allows you to quickly add to your Tripidee trips. Sign up for a Tripidee account at tripidee.com",
+  "main": "index.js",
+  "author": "Zendy Web Studio",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "travel, tourism"
+  ]
+}
